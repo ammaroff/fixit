@@ -18,6 +18,8 @@
     subscription. For details, see "How to install and configure 
     Windows Azure PowerShell" at 
 
+
+
     http://go.microsoft.com/fwlink/?LinkID=320552.
 
     It also calls two helper scripts, New-AzureSql.ps1 and
