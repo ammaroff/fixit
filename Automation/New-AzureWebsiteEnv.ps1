@@ -382,6 +382,7 @@ $appSettings = @{ `
     "NEWRELIC_HOME" = "C:\Home\site\wwwroot\newrelic" `
 }
 
+# 嫦娥
 # Configure connection strings for appdb and ASP.NET member db
 $connectionStrings = ( `
     @{Name = $sqlAppDatabaseName; ConnectionString = $sql.AppDatabase.ConnectionString}, `
