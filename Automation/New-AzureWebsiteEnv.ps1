@@ -26,6 +26,7 @@
     New-AzureStorage.ps1, which must be in the same directory
     as this script.
 
+
     Finally, the script createes the website-environment.xml 
     file for the website deployment script and the <Website_Name>.pubxml
     file that Windows Azure needs to deploy the website. It 
